@@ -10,14 +10,12 @@ The Amazon Review Sentiment Analyzer is an advanced tool designed to determine t
 
 -Provides an interactive web interface for ease of use.
 
-*Technologies Used*
+*Technologies/Tools/Libraries Used*
 
 -Streamlit for creating an interactive and user-friendly web application.
 
 -NLTK (VADER) for rule-based sentiment analysis.
 
 -Hugging Face Transformers (RoBERTa & Pipeline) for advanced deep learning-based sentiment analysis.
-
--dotenv for environment variable management.
 
 #could not upload csv file due to it's large size
